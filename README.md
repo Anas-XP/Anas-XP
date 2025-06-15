@@ -1,16 +1,34 @@
-## Hi there 👋
+### Hi there, I'm Anas Okasha! 👋
 
-<!--
-**Anas-XP/Anas-XP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🚀 I'm a passionate **Next.js 15 Developer** and a **Full-Stack Enthusiast** always learning and building modern web applications. My superpower? Crafting clean, efficient, and user-friendly interfaces that truly make an impact! 💻✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About Me:
+* Self-taught web developer since 2018!
+* I love tackling new challenges and staying patient until I nail them.
+* **My Motto:** Teamwork makes the dream work, folks! 🙌
+
+---
+
+### My Expertise:
+
+#### Frontend Development 🎨
+* **Next.js 🚀** (90%)
+* **React ⚛️** (95%)
+* **Framer Motion ✨** (80%)
+* **TypeScript 📜** (85%)
+* **Tailwind CSS 💨** (80%)
+
+#### Backend Development ⚙️
+* **Node.js 🟢** (85%)
+* **Express 🌐** (80%)
+* **MongoDB 🍃** (80%)
+* **Prisma 📊** (65%)
+* **GraphQL 🔮** (55%)
+* **REST APIs 📡** (90%)
+
+#### Tools & Others 🛠️
+* **Git 🌳** (90%)
